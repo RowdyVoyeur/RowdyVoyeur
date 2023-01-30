@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RowdyVoyeur
-- 👀 I’m interested in Raspberry Pi and Synths
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on DIY Synths
+- 👀 I’m interested in Music Prodution, Synths and Raspberry Pi.
+- 🌱 My coding is quite limited, but I’m currently learning Python
+- 💞️ If you're interested, I'm more than happy to collaborate on DIY Synths projects
 - 📫 You can reach me on Reddit u/RowdyVoyeur
 
 <!---
