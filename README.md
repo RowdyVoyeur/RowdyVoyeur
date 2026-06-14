@@ -1,8 +1,8 @@
-# Ricardo Simoes
+# About me
 
-## About me
+## Introduction
 
-I enjoy understanding how things work, documenting what I learn and using technology to solve practical problems. Most of my personal projects are focused on electronic music workflows, Raspberry Pi, MIDI, audio routing and making small devices do useful things.
+Hi, I'm Ricardo! I enjoy understanding how things work, documenting what I learn and using technology to solve practical problems. Most of my personal projects are focused on electronic music workflows, Raspberry Pi, MIDI, audio routing and making small devices do useful things.
 
 ## Current focus
 
